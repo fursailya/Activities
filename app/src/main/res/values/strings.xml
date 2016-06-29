@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activities</string>
+    <string name="label_name">Введите свое имя: </string>
+    <string name="label_surname">Введите свою фамилию: </string>
+    <string name="btn_label">Передать</string>
+    <string name="back_btn">Назад</string>
+</resources>
